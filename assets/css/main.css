@@ -2276,8 +2276,8 @@ font.menu {font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微�
 font.submenu {font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif; font-size: 15px;}
 font.title {font-family: Tahoma,Helvetica,Arial,"\5b8b\4f53",sans-serif; font-size: 24px;}
 font.subtitle {font-family: Tahoma,Helvetica,Arial,"\5b8b\4f53",sans-serif; font-size: 20px;}
-p.ptext {font-family: Calibri, Verdana, "Roboto Slab", serif; font-size: 16px;}
-p.ptextsubpage {font-family: Calibri, Verdana, "Roboto Slab", serif; font-size: 18px; color: #666666;}
+p.ptext {font-family: Verdana, "Roboto Slab", serif; font-size: 16px;}
+p.ptextsubpage {font-family: Verdana, "Roboto Slab", serif; font-size: 18px; color: #666666;}
 blockquote.btext {font-style: normal; height: 40px;}
 
 
